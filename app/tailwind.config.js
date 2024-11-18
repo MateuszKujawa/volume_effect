@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Amethysta: ['"Amethysta"', 'serif'], // Upewnij się, że rodzina czcionek jest poprawna
+        Amethysta: ['"Amethysta"', 'serif'], 
+        DmSans: ['"DMSans', 'serif']
       },
     },
   },
