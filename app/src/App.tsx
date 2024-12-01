@@ -4,6 +4,8 @@ import Footer from './components/footer/Footer';
 import Banner from './components/sections/banner/Banner';
 import Whyus from './components/sections/whyus/Whyus';
 import Services from './components/sections/our_services/Services';
+import FollowUs from './components/sections/follow_us/FollowUs';
+import Testimonials from './components/sections/google_testimonials/Testimonials';
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <Banner />
       <Whyus />
       <Services />
+      <FollowUs />
+      <Testimonials />
       <Footer />
     </div>
   );

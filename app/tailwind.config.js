@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       fontFamily: {
         Amethysta: ['"Amethysta"', 'serif'], 
-        DmSans: ['"DMSans', 'serif']
+        DmSans: ['"DMSans', 'serif'],
+        poppins: ['"Poppins', 'serif']
       },
     },
   },
